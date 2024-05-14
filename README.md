@@ -1,3 +1,4 @@
 # C-coding
-first git repository
-Author - Zahir Hussain
+first git repository.
+<br>
+Author - Zahir Hussain Ansari.
